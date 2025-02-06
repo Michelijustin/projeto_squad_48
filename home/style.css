@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+p{
+    font-size: 25px;
+    color: #0d0d0da2;
+    font-weight: 300;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+.quem-somos h1{
+    font-size: 30px;
+}
+
+.quem-somos{
+    margin-top: 50px;
+}
+
+.quem-somos h1{
+    font-size: 40px;
+}
+
+.comeco p{
+    font-size: 33px;
+}
+
+.img-comeco{
+    max-width: 400px;
+}
+
+
+@media (max-width:767px){
+    .comeco{
+        margin-top: 30px;
+    }
+    
+}
+
+.valores{
+    margin-top: 30px;
+}
+
+.valores img{
+    width: 60px;
+    background-color: #BFA08E;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.topicos-valores{
+   max-width: 500px;
+   margin-top: 30px;
+}
+
+.icones{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
