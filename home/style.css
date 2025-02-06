@@ -39,7 +39,11 @@ h2{
 }
 
 .valores{
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.valores h2{
+    margin-bottom:50px;
 }
 
 .valores img{
@@ -50,8 +54,12 @@ h2{
 }
 
 .topicos-valores{
-   max-width: 500px;
-   margin-top: 30px;
+   max-width: 530px;
+   margin-bottom: 20px;
+}
+
+.topicos-valores p{
+    font-size: 22px;
 }
 
 .icones{
