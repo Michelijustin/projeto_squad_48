@@ -74,3 +74,22 @@ h2{
     margin-bottom: 10px;
 }
 
+.comentario{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.comentario img{
+    max-width: 400px;
+    margin-bottom: 30px;
+}
+
+.comentario p{
+    font-weight: 400;
+    font-size: 23px;
+
+}
+
+.comentario span{
+    border-bottom: 2px solid #bfa08ea4;
+}
