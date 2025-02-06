@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+*{
+    font-family: "Roboto", serif;
+}
+
+:root{
+    --cor1: #304673;
+    --cor2: #EBEFF2;
+    --cor3: #73462D;
+    --cor4: #BFA08E;
+    --cor5: #0D0D0D;
+}
+
+p{
+    font-size: 28px;
+    color: #0d0d0d8f;
+    font-weight: 300;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+.navbar{
+    background-color: #304673;
+    color: white;
+    height: 90px;
+}
+
+.brand{
+   text-decoration: none;
+   font-family: "Julius Sans One", serif;
+   background-color: white;
+   padding: 8px;
+   border-radius: 20px;
+}
+
+.quem-somos h1{
+    font-size: 30px;
+}
+
+.img-logo{
+    border-radius: 10px;
+   
+}
+
+.navbar a{
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.navbar-collapse{
+    background-color: #304673;
+    padding: 10px;
+}
+
+.quem-somos{
+    margin-top: 30px;
+}
+
+.quem-somos h1{
+    font-size: 40px;
+}
+
+
+.img-comeco{
+    max-width: 400px;
+}
+
+
+@media (max-width:767px){
+    .comeco{
+        margin-top: 30px;
+    }
+    
+}
+
+footer{
+    border-top: 1px solid black;
+    padding: 30px 0px 20px 0px;
+}
+
+footer p{
+    color: rgb(147, 140, 140);
+}
