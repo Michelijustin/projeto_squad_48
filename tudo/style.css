@@ -39,6 +39,10 @@
     font-size: 17px;
 }
 
+.navbar a:hover{
+    color: white;
+    text-decoration: dashed;
+}
 .navbar-collapse{
     background-color: #304673;
     padding: 10px;
