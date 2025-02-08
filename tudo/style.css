@@ -10,7 +10,8 @@
 
 :root{
     --cor1: #304673;
-    --cor5: #0D0D0D;
+    --cor2: #0D0D0D;
+    --cor3: #BFA08E;
 }
 
 
@@ -41,7 +42,7 @@
 
 .navbar a:hover{
     color: white;
-    text-decoration: dashed;
+    text-decoration: underline;
 }
 .navbar-collapse{
     background-color: #304673;
