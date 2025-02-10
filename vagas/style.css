@@ -7,6 +7,10 @@ body {
     text-align: center;
 }
 
+.navbar{
+    text-align: start;
+}
+
 .vagas {
     max-width: 800px;
     margin: 50px auto;

@@ -37,17 +37,6 @@ h2{
     max-width: 380px;
 }
 
-@media (max-width:800px){
-    .img-comeco{
-        max-width: 350px;
-    }
-
-    .comeco p{
-        font-size: 26px;
-    }
-}
-
-
 .valores{
     margin-top: 50px;
 }
@@ -114,6 +103,18 @@ h2{
         margin-left: 40px;
     }
 }
+
+
+@media (max-width:800px){
+    .img-comeco{
+        max-width: 350px;
+    }
+
+    .comeco p{
+        font-size: 26px;
+    }
+}
+
 
 @media(max-width:768px){
 
